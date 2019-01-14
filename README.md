@@ -9,4 +9,4 @@ All Fellows should add their names and email to this text file.
  Submit your commit link to the Program Manger on Slack
 
 # Resources
-* [Introduction](https://www.youtube.com/watch?v=XPrxhmuzUyo)
+* [Introduction to git with Github](https://www.youtube.com/watch?v=XPrxhmuzUyo)
