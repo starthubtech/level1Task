@@ -10,3 +10,6 @@ All Fellows should add their names and email to this text file.
 
 # Resources
 * [Introduction to git with Github](https://www.youtube.com/watch?v=XPrxhmuzUyo)
+
+Oladokun Oluwasegun
+(Oladkunoluwasegun@gmail.com)
