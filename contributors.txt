@@ -19,5 +19,9 @@
 * Etieneabasi Sunday abasi.asuquo@gmail.com
 * Utibe Etim etim.utibe@gmail.com
 * Umoh Umoh Udonwa umohu67@gmail.com
+<<<<<<< HEAD
 * Uyo-obong Sunday uyoobonga@gmail.com
 
+=======
+* Felicia Udosen udosenfelicia@gmail.com
+>>>>>>> bc215eae15e4d2a5a0ba18cad468af9fc5dc5f3a
